@@ -17,3 +17,6 @@
 
 7-R// Una organización es una entidad social orientada hacia la consecución de metas con base 
 	en un sistema coordinado y estructurado vinculado con el entorno.
+
+8-R// Trabjar con hardwares desactualizados, no tener conocimiento de la tecnología en uso,
+	trabajar con personal que no es capaz de trabajar en grupo.
