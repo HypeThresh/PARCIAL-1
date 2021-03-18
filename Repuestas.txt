@@ -14,3 +14,6 @@
 
 6-R// El uso de sistemas informáticos nos entrega un enfoque más preciso del entorno al que se
 	encuentra vinculado.
+
+7-R// Una organización es una entidad social orientada hacia la consecución de metas con base 
+	en un sistema coordinado y estructurado vinculado con el entorno.
