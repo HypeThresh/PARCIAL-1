@@ -9,3 +9,5 @@
 3-R// La resolucion de problemas se veria entorpecida notablemente por la falta de organizacion.
 
 4-R// Planificar y administrar
+
+5-R// La comparación de resultados obtenidos con metas esperadas
