@@ -11,3 +11,16 @@
 4-R// Planificar y administrar
 
 5-R// La comparación de resultados obtenidos con metas esperadas
+
+6-R// El uso de sistemas informáticos nos entrega un enfoque más preciso del entorno al que se
+	encuentra vinculado.
+
+7-R// Una organización es una entidad social orientada hacia la consecución de metas con base 
+	en un sistema coordinado y estructurado vinculado con el entorno.
+
+8-R// Trabjar con hardwares desactualizados, no tener conocimiento de la tecnología en uso,
+	trabajar con personal que no es capaz de trabajar en grupo.
+
+9-R// Para tener un conocimiento previo del enfoque al que está orientado nuestro trabajo a
+	realizar.
+10-R// Vision del Estudio
