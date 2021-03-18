@@ -20,3 +20,6 @@
 
 8-R// Trabjar con hardwares desactualizados, no tener conocimiento de la tecnología en uso,
 	trabajar con personal que no es capaz de trabajar en grupo.
+
+9-R// Para tener un conocimiento previo del enfoque al que está orientado nuestro trabajo a
+	realizar.
