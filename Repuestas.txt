@@ -11,3 +11,6 @@
 4-R// Planificar y administrar
 
 5-R// La comparación de resultados obtenidos con metas esperadas
+
+6-R// El uso de sistemas informáticos nos entrega un enfoque más preciso del entorno al que se
+	encuentra vinculado.
