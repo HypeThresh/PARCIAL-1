@@ -23,3 +23,4 @@
 
 9-R// Para tener un conocimiento previo del enfoque al que está orientado nuestro trabajo a
 	realizar.
+10-R// Vision del Estudio
