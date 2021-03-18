@@ -1,2 +1,8 @@
 1-R// Es un conjunto de elementos relacionados entre sí para dar forma a un objeto, ya sea
       de forma física o conceptual.
+
+2-R// 	SISTEMAS ABIERTOS	SISTEMAS CERRADOS
+	1- Cuerpo Humano	1- Batería de Auto
+	2- Reactor Nuclear	2- Olla a presión
+	3- Una hoguera		3- Una ciudad autónoma
+
